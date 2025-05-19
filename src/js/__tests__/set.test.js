@@ -1,4 +1,4 @@
-import Team from "../app";
+import Team from "../set";
 
 const magician = {
         name: 'Magician',
